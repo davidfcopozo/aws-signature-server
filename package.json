@@ -4,6 +4,7 @@
   "description": "AWS signature generation server for API requests",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'No build step required'",
     "start": "node index.js",
     "dev": "node index.js"
   },
